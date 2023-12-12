@@ -1,2 +1,2 @@
-#!/bin/bash
-redirection of shells
+1.#!/bin/bash
+2.echo "Hello World"
